@@ -1,0 +1,4 @@
+while true do
+	game.Players.LocalPlayer.PlayerGui.GameGui.BottomLeft.Health["Stamina LS"].Stamina.Value = 1000
+	task.wait()
+end
